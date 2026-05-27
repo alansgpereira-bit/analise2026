@@ -9,3 +9,4 @@ else:
      print("Valor maior que 30")   
 print(f"O valor digitado {v1}")     
 print("teste")
+print("teste 2")
