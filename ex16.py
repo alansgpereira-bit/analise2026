@@ -8,3 +8,4 @@ elif v1 >= 21 and v1 <= 30:
 else:
      print("Valor maior que 30")   
 print(f"O valor digitado {v1}")     
+print("teste")
